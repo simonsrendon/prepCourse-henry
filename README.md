@@ -1,2 +1,1 @@
-# prepCourse-henry
-esto es una prueba del modulo2 henry
+prueba de como crear un repositorio desde github
